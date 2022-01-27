@@ -300,7 +300,7 @@ https://user-images.githubusercontent.com/84449179/151316449-4d218662-b2be-4ebc-
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/K-Nehal/garbage_detection/blob/main/jet%20son.jpg)
 
 
 ## Advantages
